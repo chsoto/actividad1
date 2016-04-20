@@ -1,2 +1,3 @@
 *.class
 bin/cl/ubb/agil/*
+/bin/
